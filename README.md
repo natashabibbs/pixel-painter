@@ -79,4 +79,8 @@ Do not continue until you have finished **Part I** of both the Javascript and CS
 ##End of Part I
 Good job on getting this far!
 
-Let the instructor know you have finished up to here and they will give you directions to add other features to your web application.
+Extra Features:
+- Erase
+- Fill
+- Templates
+- Anything you can think of!

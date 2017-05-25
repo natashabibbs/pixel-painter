@@ -77,13 +77,13 @@
 }
 
 .pallete {
-     width: 27px;
-   height:27px;
-   display: inline-block;
+  width: 500px;
+  height: 10px;
+  display: inline-block;
 }
 
 #selectedColorName {
-   width: 15px;
+   width: 18px;
    height:15px;
 }
 
@@ -105,10 +105,17 @@
   height: 5px;
   margin: 0px 0px 0px 0px; 
   padding: .7em;
-  width: 8px;
+  width: 9px;
 }
 
+p {
+  font-family: 'Quantico', sans-serif;
+}
 
+ h1 {
+  font-family: 'Quantico', sans-serif;
+}
 
-
-      
+body {
+  background-color: #b2cfff;
+}
